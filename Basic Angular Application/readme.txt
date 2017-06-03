@@ -1,0 +1,1 @@
+This project is just an introduction to AngularJS. It displays some of the features such as 2 way binding, url routing, and directives. This is a small app for fictional web design agency. It has three pages- Home, About & contact
