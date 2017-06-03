@@ -1,0 +1,26 @@
+[{
+  "id": 1,
+  "name": "Lynn Location",
+  "address": "333 Walnut st",
+  "city": "Lynn",
+  "state": "MA",
+  "zip": "01912",
+  "phone": "781-555-5555"
+
+}, {
+  "id": 2,
+  "name": "Amesbury Location",
+  "address": "22 School st",
+  "city": "Amesbury",
+  "state": "MA",
+  "zip": "01913",
+  "phone": "978-555-5555"
+}, {
+  "id": 3,
+  "name": "Boston Location",
+  "address": "36 Mass ave",
+  "city": "Boston",
+  "state": "MA",
+  "zip": "01919",
+  "phone": "617-555-5555"
+}]

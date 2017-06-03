@@ -1,0 +1,19 @@
+[{
+  "id": 1,
+  "name": "Hardware Repair",
+  "image": "6d5ac319109445e498f70f96608c7250.jpg",
+  "description": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+
+}, {
+  "id": 2,
+  "name": "Virus Removal",
+  "image": "6d5ac319109445e498f70f96608c7250.jpg",
+  "description": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+
+}, {
+  "id": 3,
+  "name": "System Tuneup",
+  "image": "6d5ac319109445e498f70f96608c7250.jpg",
+  "description": "Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa."
+
+}]
