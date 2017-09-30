@@ -1,1 +1,2 @@
+![alt text](https://github.com/DeepaliPa/Angular-Project/blob/master/My-Contacts-App/MyContactsApp/template-graphic.gif)
 It's a simple web template sales app. It has templates with their details including price and category. It has a very simple PayPal buy button on the details page.
